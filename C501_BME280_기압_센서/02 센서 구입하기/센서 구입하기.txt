@@ -1,0 +1,12 @@
+
+다음과 같이 센서를 구입한다. 
+
+[ 알리익스프레스 ]
+https://aliexpi.com/s4ag
+
+[아마존]
+https://www.amazon.com/s?k=bme280&ref=nb_sb_noss_2
+
+
+[네이버쇼핑]
+https://search.shopping.naver.com/search/all?query=BME280&frm=NVSHATC&prevQuery=BME280

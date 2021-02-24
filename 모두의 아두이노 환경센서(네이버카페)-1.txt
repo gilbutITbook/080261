@@ -1,0 +1,66 @@
+﻿===============================
+[ 모두의 아두이노 환경센서 ] 
+
+네이버 카페 : https://cafe.naver.com/arduinosensor
+Email : steamedu123@gmail.com
+===============================
+
+
+미세먼지는 재난이다. 아두이노로 18개의 환경 센서를 혼자 만들면서 배울 수 있다. 
+
+깨끗한 공기를 마실 권리, 아두이노를 이용한 대기오염 측정 센서를 이용해 실내, 실외 공기질을 측정할 수 있다. 또한 4개의 프로젝트를 이용해 대기환경을 측정하는데 사용할 수 있다. 
+
+-----------------------------------------------------------------------------------------------
+C200 미세먼지는 재난이다. 숨 쉴 자유가 사라졌다
+     https://cafe.naver.com/arduinosensor/book5108749/46
+
+     C202 PMS7003 https://cafe.naver.com/arduinosensor/book5108749/47
+     C203 GP2Y1010AU0F https://cafe.naver.com/arduinosensor/book5108749/48
+     C204 PPD42NS https://cafe.naver.com/arduinosensor/book5108749/49
+     C205 SDS011 https://cafe.naver.com/arduinosensor/book5108749/50
+-----------------------------------------------------------------------------------------------
+C301 온도/습도, 아침과 밤에 더 나빠지는 미세먼지…왜?
+   https://cafe.naver.com/arduinosensor/book5108749/51
+C302 이산화탄소가(CO2), 창 닫고 공기청정기 돌리니 미세먼지 대신 '이산화탄소 
+    https://cafe.naver.com/arduinosensor/book5108749/52
+C303 포름알데히드가(HCHO), 실내공기 중 포름알데히드ㆍ곰팡이 주의"
+   https://cafe.naver.com/arduinosensor/book5108749/53
+C304 총 휘발성 유기화합물(TVOC) : 창 닫고 공기청정기 돌리니 미세먼지 대신 '의외의 복병'
+   https://cafe.naver.com/arduinosensor/book5108749/54
+C305 방사선(감마) , 폐암을 부르는 발암 물질이 우리 집에?
+   https://cafe.naver.com/arduinosensor/book5108749/55
+-----------------------------------------------------------------------------------------------
+
+C401 오존(O3),미세먼지 보다 무서운게 바로 오존이다?
+   https://cafe.naver.com/arduinosensor/book5108749/56
+C402 일산화탄소(CO), 얼마나 위험한가?
+   https://cafe.naver.com/arduinosensor/book5108749/57
+C403 이산화질소(NO2) : 초미세 먼지 원인 '이산화질소' 농도 정확히 측정한다
+   https://cafe.naver.com/arduinosensor/book5108749/62
+C404 오염물질 만나면 초미세먼지 되는 암모니아(NH3)의 '독한 변신'을 막아라
+   https://cafe.naver.com/arduinosensor/book5108749/63
+C405 아황산가스(SO2),  호흡기 질환 유발하는 이산화항
+   https://cafe.naver.com/arduinosensor/book5108749/64
+-----------------------------------------------------------------------------------------------
+
+C501 기압,  왜 날씨 따뜻해지면 미세먼지 기승부리나? 기압때문
+   https://cafe.naver.com/arduinosensor/book5108749/58
+C502 자외선(UV), 미세먼지 많고 구름 끼면 자외선 증가
+  https://cafe.naver.com/arduinosensor/book5108749/59
+C503 기류, 대기 오염만이 문제? 실내 공기 질도 무시할 수 없다.
+  https://cafe.naver.com/arduinosensor/book5108749/60
+C504 바람, 미세먼지에 어떤 영향을 줄까?
+  https://cafe.naver.com/arduinosensor/book5108749/61
+
+-----------------------------------------------------------------------------------------------
+
+C601 LCD16X2 + 미세먼지 측정기 + 온도습도
+  https://cafe.naver.com/arduinosensor/book5108749/65
+C602 HC-06(블루투스) + 미세먼지 측정기 + 온도습도
+  https://cafe.naver.com/arduinosensor/book5108749/66
+C603 ESP01(Wi-Fi) + 미세먼지 측정기 + 온도습도
+  https://cafe.naver.com/arduinosensor/book5108749/67
+C604 프로젝트 : NRF24L01 + 미세먼지 측정기 + 온도습도기압
+  https://cafe.naver.com/arduinosensor/book5108749/68
+
+
